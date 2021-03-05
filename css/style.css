@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.page-container{
+  max-width:800px;
+}
+.contenitore-header{
+  text-align: center;
+}
+.inputn1{
+  padding:20px;
+}
+.sottotitolo{
+    padding:20px;
+}
+.contenitore-contenitore-cibi{
+  display:flex;
+  justify-content: space-around;
+}
+.cibo-1{
+  display: flex;
+  padding:20px;
+}
+.contenitore-basso{
+  display: flex;
+  justify-content:center;
+}
+.bottone-btn{
+  text-align: center;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+}
