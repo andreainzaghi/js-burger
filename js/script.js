@@ -12,7 +12,7 @@ function(){
   if (burgerName.value != "") {
   // controlliamo se il nome e' stato inserito
 
-    var sum=50;
+    var sum=0;
     for( var i =0; i< ingredients.length; i++){
       // se ligrediente e stato selezionato vado a prendere il su valore
       if (ingredients[i].checked == true){
